@@ -1,0 +1,101 @@
+{
+	"personal_details": [
+		{
+			"id": 1,
+			"name": "Name 1",
+			"age": "23",
+			"nic": "OTc2NDUzMzc5dg==",
+			"tel": "MDcxMjIyNjQ2OQ=="
+		},
+		{
+			"id": 2,
+			"name": "Name 2",
+			"age": "22",
+			"nic": "OTg2NDUzMzc5dg==",
+			"tel": "MDc4MjQ2NTk2Mw=="
+		},
+		{
+			"id": 3,
+			"name": "Name 3",
+			"age": "22",
+			"nic": "OTc2NTMxMTk2dg==",
+			"tel": "MDc5MjM1MTg4Mw=="
+		},
+		{
+			"id": 4,
+			"name": "Name 4",
+			"age": "68",
+			"nic": "OTQwMjUzMzk1dg==",
+			"tel": "MDcxMjk0ODU2OQ=="
+		},
+		{
+			"id": 5,
+			"name": "Name 5",
+			"age": "30",
+			"nic": "NTEyMjUzOTM0dg==",
+			"tel": "NDI1MjU0NTY0NQ=="
+		},
+		{
+			"id": 6,
+			"name": "Name 6",
+			"age": "45",
+			"nic": "MzM0MjUzOTM0dg==",
+			"tel": "NDU2MjU0NTY0NQ=="
+		}
+	],
+	"sickness_details": [
+		{
+			"id": "4",
+			"sickness": "Common Cold",
+			"date": "2023-10-01 12:30:45"
+		},
+		{
+			"id": "4",
+			"sickness": "Influenza",
+			"date": "2023-10-01 13:45:30"
+		},
+		{
+			"id": "4",
+			"sickness": "Stomachache",
+			"date": "2023-10-02 08:15:22"
+		},
+		{
+			"id": "4",
+			"sickness": "Migraine",
+			"date": "2023-10-02 10:20:11"
+		},
+		{
+			"id": "4",
+			"sickness": "Allergies",
+			"date": "2023-10-03 17:55:04"
+		}
+	],
+
+	"drug_presc": [
+		{
+			"id": "4",
+			"drug_presc": "Take 1 aspirin daily",
+			"date": "2023-10-01 09:30:15"
+		},
+		{
+			"id": "4",
+			"drug_presc": "Antibiotic: 500mg amoxicillin, twice a day",
+			"date": "2023-10-01 10:45:52"
+		},
+		{
+			"id": "2",
+			"drug_presc": "Painkiller: 200mg ibuprofen, as needed",
+			"date": "2023-10-02 14:20:30"
+		},
+		{
+			"id": "1",
+			"drug_presc": "Cough syrup: 10ml every 4 hours",
+			"date": "2023-10-02 17:30:48"
+		},
+		{
+			"id": "1",
+			"drug_presc": "Allergy medication: 5mg loratadine daily",
+			"date": "2023-10-03 11:55:10"
+		}
+	]
+}

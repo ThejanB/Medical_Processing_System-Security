@@ -1,0 +1,36 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "200698X",
+			"password": "daadcead1a5bf23ef97f53f6bcb3bc43",
+			"user_type": "admin",
+			"privilege_level": "1"
+		},
+		{
+			"id": 2,
+			"name": "doctor1",
+			"password": "daadcead1a5bf23ef97f53f6bcb3bc43",
+			"user_type": "doctor",
+			"privilege_level": "2"
+		},
+		{
+			"id": 3,
+			"name": "staff1",
+			"password": "daadcead1a5bf23ef97f53f6bcb3bc43",
+			"user_type": "other_staff",
+			"privilege_level": "3"
+		},
+		{
+			"id": 4,
+			"name": "patient1",
+			"password": "daadcead1a5bf23ef97f53f6bcb3bc43",
+			"user_type": "patient",
+			"privilege_level": "4"
+		}
+	],
+	"codes": {
+		"doctor": "563e2741736500e8d0eac3edb54f67e1",
+		"other_staff": "a722c63db8ec8625af6cf71cb8c2d939"
+	}
+}
