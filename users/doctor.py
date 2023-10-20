@@ -1,7 +1,5 @@
 import json
 from datetime import datetime
-
-
 class Doctor:
 
     @staticmethod
@@ -20,9 +18,6 @@ class Doctor:
                 'date': str(datetime.now())[:19],
             })
 
-
-            # The code `with open("data/data.json", 'w') as outfile: json.dump(data, outfile)` is used
-            # to write the updated data dictionary to a JSON file.
             with open("data/data.json", 'w') as outfile:
                 json.dump(data, outfile)
 

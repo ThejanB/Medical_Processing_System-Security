@@ -2,7 +2,6 @@ from shared.hash import *
 import json
 
 class Admin:
-
     def run(self):
        
         while True:
